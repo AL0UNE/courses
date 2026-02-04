@@ -3,14 +3,13 @@
 
 ---
 
-## 🚀 Démarrage Rapide
+## Démarrage Rapide
 
 Pour commencer le TP 1, cliquez simplement sur le bouton ci-dessous. Cela ouvrira directement le notebook dans votre environnement Google Colab :
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AL0UNE/courses/blob/main/TP1_DU_IA_SANTE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AL0UNE/courses/blob/main/TP1_student_2026.ipynb)
 
-
-## 🛠️ Instructions pour les Étudiants
+## Instructions pour les Étudiants
 
 1.  Ouvrez le notebook via le lien **Colab** ci-dessus.
 2.  **Enregistrez une copie** sur votre propre Drive (`Fichier` > `Enregistrer une copie dans Drive`) avant de commencer à coder.
