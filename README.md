@@ -7,7 +7,7 @@
 
 Pour commencer le TP 1, cliquez simplement sur le bouton ci-dessous. Cela ouvrira directement le notebook dans votre environnement Google Colab :
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AL0UNE/courses/blob/main/TP_1_student_2026.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AL0UNE/courses/blob/main/TP1_DU_IA_SANTE.ipynb)
 
 
 ## 🛠️ Instructions pour les Étudiants
