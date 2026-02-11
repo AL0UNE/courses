@@ -17,7 +17,7 @@
 ---
 
 ### TP 2
-(12/02)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AL0UNE/courses/blob/main/TP2_student_2026.ipynb)
 
 ---
 📧 **Contact :** Pour toute question, contactez-moi à [alan.balendran@u-paris.fr]
